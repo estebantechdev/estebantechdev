@@ -76,7 +76,7 @@
 | Emoji | Category                   | Description                           |
 | :---: | -------------------------- | ------------------------------------- |
 | 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) 🔒️ | Portfolio |
-| ♾️     | [DevOps](https://github.com/stars/estebanways/lists/devops) | Development + Operations |
+| ♾️     | [DevOps](https://github.com/stars/estebanways/lists/devops) | Deployment, automation, and system tools |
 | 🐚     | [Shell Scripts](https://github.com/stars/estebanways/lists/shell-scripts) | Automation tools and utilities written in Bash, Sh, etc. |
 | 🛠️     | [Development](https://github.com/stars/estebanways/lists/development) | Tools for programming improvement |
 | 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
@@ -89,13 +89,13 @@
 | 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) 🔒️ | Data Analysis / Data Science |
 | 🐍️     | [Python Lab](https://github.com/stars/estebanways/lists/python-lab) | Python code and projects |
 | 🤖     | [Arduino Lab](https://github.com/stars/estebanways/lists/arduino-lab) | Arduino code and projects |
-| ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid and I |
-| 🪐     | [Azure Cloud](https://github.com/stars/estebanways/lists/azure-cloud) | Azure Cloud code using C# and Python |
+| ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid And I organization |
+| 🪐     | [Azure Cloud](https://github.com/stars/estebanways/lists/azure-cloud) | Azure Cloud-based source code and projects |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
 | 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
 | 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
 | 🔮    | [Future ideas](https://github.com/stars/estebanways/lists/future-ideas) | 1 repository|
-| 🐙️     | [GitHub account test](https://github.com/stars/estebanways/lists/github-account-test) | First GitHub account repo test |
+| 🐙️     | [GitHub Account estebanways](https://github.com/stars/estebanways/lists/github-account-estebanways) | Current GitHub account repos |
 
 [portfolio]: https://github.com/estebanways
 [linkedin]: https://www.linkedin.com/in/alvaro-esteban-herrera55859580
