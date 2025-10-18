@@ -77,7 +77,7 @@
 | :---: | -------------------------- | ------------------------------------- |
 | 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) 🔒️ | Portfolio |
 | ♾️     | [DevOps](https://github.com/stars/estebanways/lists/devops) | Development + Operations |
-| 🐚     | [Shell scripts](https://github.com/stars/estebanways/lists/shell-scripts) | Automation tools and utilities written in Bash, Sh, etc. |
+| 🐚     | [Shell Scripts](https://github.com/stars/estebanways/lists/shell-scripts) | Automation tools and utilities written in Bash, Sh, etc. |
 | 🛠️     | [Development](https://github.com/stars/estebanways/lists/development) | Tools for programming improvement |
 | 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
 | 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
@@ -85,6 +85,7 @@
 | ⚛️    | [React Lab](https://github.com/stars/estebanways/lists/react-lab) | React code and projects |
 | 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp) |
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
+| 🕸️    | [Web Lab](https://github.com/stars/estebanways/lists/web-lab) | Web code and projects |
 | 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) 🔒️ | Data Analysis / Data Science |
 | 🐍️     | [Python Lab](https://github.com/stars/estebanways/lists/python-lab) | Python code and projects |
 | 🤖     | [Arduino Lab](https://github.com/stars/estebanways/lists/arduino-lab) | Arduino code and projects |
