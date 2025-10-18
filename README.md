@@ -67,7 +67,9 @@
 </details>
 -->
 
+<!--
  <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
+-->
 
 ### Repository Lists
 
