@@ -92,8 +92,7 @@
 | ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid And I organization |
 | 🪐     | [Azure Cloud](https://github.com/stars/estebanways/lists/azure-cloud) | Azure Cloud-based source code and projects |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
-| 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
-| 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
+| 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Temporary Forks |
 | 🔮    | [Future ideas](https://github.com/stars/estebanways/lists/future-ideas) | 1 repository|
 | 🐙️     | [GitHub Account estebanways](https://github.com/stars/estebanways/lists/github-account-estebanways) | Current GitHub account repos |
 
