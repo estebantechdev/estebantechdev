@@ -80,12 +80,12 @@
 | 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
 | 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
 | ⚔️      | [The Odin Project](https://github.com/stars/estebanways/lists/the-odin-project) | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
-| ⚛️    | [React exercises](https://github.com/stars/estebanways/lists/react-exercises) | Practice exercises |
+| ⚛️    | [React Lab](https://github.com/stars/estebanways/lists/react-lab) | React code and projects |
 | 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp) |
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
 | 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) 🔒️ | Data Analysis / Data Science |
-| 🐍️     | [Python exercises](https://github.com/stars/estebanways/lists/python-exercises) | Practice exercises |
-| 🤖     | [Arduino exercises](https://github.com/stars/estebanways/lists/arduino-exercises) | Practice exercises |
+| 🐍️     | [Python Lab](https://github.com/stars/estebanways/lists/python-lab) | Python code and projects |
+| 🤖     | [Arduino Lab](https://github.com/stars/estebanways/lists/arduino-lab) | Arduino code and projects |
 | ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid and I |
 | 🪐     | [Azure Cloud](https://github.com/stars/estebanways/lists/azure-cloud) | Azure Cloud code using C# and Python |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
