@@ -75,8 +75,8 @@
 | :---: | -------------------------- | ------------------------------------- |
 | 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) 🔒️ | Portfolio |
 | ♾️     | [DevOps](https://github.com/stars/estebanways/lists/devops) | Development + Operations |
+| 🐚     | [Shell scripts](https://github.com/stars/estebanways/lists/shell-scripts) | Automation tools and utilities written in Bash, Sh, etc. |
 | 🛠️     | [Development](https://github.com/stars/estebanways/lists/development) | Tools for programming improvement |
-| 🐚     | [Shell scripts](https://github.com/stars/estebanways/lists/shell-scripts) | Automation tools and utilities written in Bash, Sh, etc |
 | 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
 | 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
 | ⚔️      | [The Odin Project](https://github.com/stars/estebanways/lists/the-odin-project) | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
