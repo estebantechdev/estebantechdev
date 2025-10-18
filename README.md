@@ -89,6 +89,7 @@
 | 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) | Data Analysis / Data Science |
 | 🐍️     | [Python Lab](https://github.com/stars/estebanways/lists/python-lab) | Python code and projects |
 | 🤖     | [Arduino Lab](https://github.com/stars/estebanways/lists/arduino-lab) | Arduino code and projects |
+| 💡     | [Electronic](https://github.com/stars/estebanways/lists/electronic) | All related to electronic |
 | ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid And I organization |
 | 🪐     | [Azure Cloud](https://github.com/stars/estebanways/lists/azure-cloud) | Azure Cloud-based source code and projects |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
