@@ -74,6 +74,7 @@
 | Emoji | Category                   | Description                           |
 | :---: | -------------------------- | ------------------------------------- |
 | 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) 🔒️ | Portfolio |
+| ♾️     | [DevOps](https://github.com/stars/estebanways/lists/devops) | Development + Operations |
 | 🛠️     | [Development](https://github.com/stars/estebanways/lists/development) | Tools for programming improvement |
 | 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
 | 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
