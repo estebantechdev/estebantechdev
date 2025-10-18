@@ -86,7 +86,7 @@
 | 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp) |
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
 | 🕸️    | [Web Lab](https://github.com/stars/estebanways/lists/web-lab) | Web code and projects |
-| 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) 🔒️ | Data Analysis / Data Science |
+| 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) | Data Analysis / Data Science |
 | 🐍️     | [Python Lab](https://github.com/stars/estebanways/lists/python-lab) | Python code and projects |
 | 🤖     | [Arduino Lab](https://github.com/stars/estebanways/lists/arduino-lab) | Arduino code and projects |
 | ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid And I organization |
