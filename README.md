@@ -95,7 +95,7 @@
 | 📘️     | [Books](https://github.com/stars/estebantechdev/lists/books) | Published books source |
 | 🔱️     | [Forks](https://github.com/stars/estebantechdev/lists/forks) | Temporary Forks |
 | 🔮    | [Future ideas](https://github.com/stars/estebantechdev/lists/future-ideas) | 1 repository|
-| 🐙️     | [GitHub Account estebantechdev](https://github.com/stars/estebantechdev/lists/github-account-estebantechdev) | Current GitHub account repos |
+| 🐙️     | [GitHub Account estebantechdev](https://github.com/stars/estebantechdev/lists/github-account-estebantechde) | Current GitHub account repos |
 
 [portfolio]: https://github.com/estebantechdev
 [linkedin]: https://www.linkedin.com/in/alvaro-esteban-herrera55859580
