@@ -99,7 +99,7 @@
 
 [portfolio]: https://github.com/estebantechdev
 [linkedin]: https://www.linkedin.com/in/alvaro-esteban-herrera55859580
-[youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
+[youtube]: https://www.youtube.com/@devpills-yt
 [vscode]: https://github.com/estebantechdev/sword-vim
 [html]: https://github.com/estebantechdev/newzappers
 [css]: https://github.com/estebantechdev/google-homepage
