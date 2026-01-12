@@ -65,17 +65,17 @@ Shell Script · C · C# · C++ · Crystal · Clojure · Go · Fortran · Erlang 
 -->
 
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-<!--![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)-->
-<!--![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)-->
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-<!--![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)-->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+<!--![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)-->
+<!--![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)-->
+<!--![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)-->
 <!--![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)-->
 <!--![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)-->
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 <!--
 ### 🎨 Frontend Markup & Styling
