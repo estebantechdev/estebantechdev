@@ -254,6 +254,7 @@ Arduino · Raspberry Pi · ROS
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 ---
 
 ## 💰 You can help me by Donating
