@@ -30,8 +30,13 @@
 
 #### Data Profiles
 
+<<<<<<< HEAD
 [<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle&nbsp;&nbsp;
 [<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face&nbsp;&nbsp;
+=======
+[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle •
+[<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face •
+>>>>>>> 3cc81d1b346e672b3eb4dfc3172f9419440171d9
 [<img alt="DataCamp" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
 
 #### Programming Profiles
