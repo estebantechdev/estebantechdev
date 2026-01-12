@@ -116,7 +116,7 @@
 
 ## 📦 Public Container Images
 
-- [debian-postgres-stages-CICD](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
+- [mono-app-db-stages-CICD:dev](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
