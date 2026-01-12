@@ -3,18 +3,12 @@
  <img align="right" alt="Esteban" src="https://github.com/estebantechdev/estebantechdev/blob/main/code.jpg?raw=true" width="500" height="260" />
 
 ### I'm a Software Developer!!
-✍ You can find my projects here [portfolio]
-
-🔭 I’m currently working on my first robot
-
-🌱 I’m currently learning React Native and Azure
-
-👯 I’m looking to collaborate on open source
-
-💬 Ask me about ... Anything
-
-😄 Pronouns: He/Him
-
+✍ You can find my projects here [portfolio]  
+🔭 I’m currently working on my first robot  
+🌱 I’m currently learning React Native and Azure  
+👯 I’m looking to collaborate on open source  
+💬 Ask me about ... Anything  
+😄 Pronouns: He/Him  
 ⚡ Fun fact: I always think of debugging as being a detective in a crime movie
 
 **Talk with me, I am kinda awesome.**
