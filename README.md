@@ -36,9 +36,9 @@
 
 #### Programming Profiles
 
-[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit<br /><br />
-[<img align="left" alt="Esteban Herrera | HackerRank" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] HackerRank<br /><br />
-[<img align="left" alt="Esteban Herrera | MS Learn" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] Microsoft Learn
+[<img alt="Replit" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit&nbsp;&nbsp;
+[<img alt="HackerRank" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] HackerRank&nbsp;&nbsp;
+[<img alt="Microsoft Learn" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] Microsoft Learn
 
 ## 🛠️ Languages and Tools
 
