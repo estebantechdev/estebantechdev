@@ -66,7 +66,7 @@
 [![github](https://img.shields.io/github/followers/estebantechdev?logo=github&style=plastic)](https://github.com/estebantechdev?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=estebantechdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
@@ -114,7 +114,7 @@
 | 🔮    | [Future ideas](https://github.com/stars/estebantechdev/lists/future-ideas) | 1 repository|
 | 🐙️     | [GitHub Account estebantechdev](https://github.com/stars/estebantechdev/lists/github-account-estebantechde) | Current GitHub account repos |
 
-## 📦 Open Container Images
+## 📦 Public Container Images
 
 - [debian-postgres-stages-CICD](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
 
