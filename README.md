@@ -30,17 +30,9 @@
 
 #### Data Profiles
 
-[<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle<br /><br />
-[<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face<br /><br />
-[<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
-
-
-[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle ·
-[<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face ·
+[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle&nbsp;&nbsp;
+[<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face&nbsp;&nbsp;
 [<img alt="DataCamp" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
-
-[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle · [<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face · [<img alt="DataCamp" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
-
 
 #### Programming Profiles
 
