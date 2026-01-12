@@ -64,8 +64,6 @@
 Shell Script · C · C# · C++ · Crystal · Clojure · Go · Fortran · Erlang · Elm · Elixir · Dart · Haskell · Java · JavaScript · Julia · Kotlin · LaTeX · R · Python · Perl · PHP · Octave · Nim · Lua · Ruby · Rust · Scala · Solidity · Swift · Zig · Groovy · Markdown
 -->
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -89,7 +87,7 @@ HTML5 · CSS3 · Sass · Less · Stylus · TailwindCSS · Bootstrap · Pug · St
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white)
+<!--![Pug](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white)-->
 
 <!--
 ### ⚛️ Frontend Frameworks & Libraries
@@ -97,42 +95,44 @@ React · Vue.js · Angular · AngularJS · Svelte · Ember · Aurelia · Gatsby 
 -->
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
+<!--![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)-->
+<!--![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)-->
+<!--![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)-->
+<!--![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)-->
 
 <!--
 ### 📱 Mobile & Desktop
 React Native · Flutter · Expo · Electron · Xamarin · Qt
 -->
 
+<!--
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+-->
 
 <!--
 ### 🧩 Backend Frameworks & APIs
 Node.js · Express.js · NestJS · Fastify · Flask · Django · Django REST · FastAPI · Laravel · Symfony · Rails · Spring · AdonisJS · CodeIgniter · Strapi
 -->
 
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+<!--![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)-->
 
 <!--
 ### 🗄️ Databases & Storage
 MySQL · PostgreSQL · SQLite · MariaDB · MongoDB · Redis · Cassandra · Couchbase · Neo4j · CockroachDB · DynamoDB · SQL Server · Realm · Supabase
 -->
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
@@ -146,9 +146,9 @@ AWS · Azure · Google Cloud · Firebase · DigitalOcean · Oracle Cloud · Open
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+<!--![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)-->
 
 <!--
 ### 🛠️ DevOps & Infrastructure
@@ -169,9 +169,9 @@ NumPy · Pandas · SciPy · Plotly · scikit-learn · TensorFlow · PyTorch · K
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+<!--![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)-->
 
 <!--
 ### 🤝 Collaboration & Productivity
@@ -190,7 +190,7 @@ Arduino · Raspberry Pi · ROS
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+<!--![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)-->
 
 ## 📊 Stats
 
