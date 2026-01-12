@@ -3,13 +3,13 @@
  <img align="right" alt="Esteban" src="https://github.com/estebantechdev/estebantechdev/blob/main/code.jpg?raw=true" width="500" height="260" />
 
 ### I'm a Software Developer!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first robot
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I always think of debugging as being a detective in a crime movie
+✍ You can find my projects here [portfolio]
+🔭 I’m currently working on my first robot
+🌱 I’m currently learning React Native and Azure
+👯 I’m looking to collaborate on open source
+💬 Ask me about ... Anything
+😄 Pronouns: He/Him
+⚡ Fun fact: I always think of debugging as being a detective in a crime movie
 
 ### Talk with me, I am kinda awesome
 
@@ -51,6 +51,8 @@
 [![github](https://img.shields.io/github/followers/estebantechdev?logo=github&style=plastic)](https://github.com/estebantechdev?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
+
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -58,16 +60,13 @@
 
 </details>
 
-<!--
 <details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Esteban's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebantechdev" />
 
 </details>
--->
 
-<!--
  <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
 -->
 
