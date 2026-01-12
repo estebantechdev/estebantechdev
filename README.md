@@ -64,6 +64,8 @@
 Shell Script · C · C# · C++ · Crystal · Clojure · Go · Fortran · Erlang · Elm · Elixir · Dart · Haskell · Java · JavaScript · Julia · Kotlin · LaTeX · R · Python · Perl · PHP · Octave · Nim · Lua · Ruby · Rust · Scala · Solidity · Swift · Zig · Groovy · Markdown
 -->
 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
