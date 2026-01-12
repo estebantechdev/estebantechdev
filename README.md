@@ -248,11 +248,13 @@ Arduino · Raspberry Pi · ROS
 - [mono-app-db-stages-CICD:dev](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
 ## 💰 You can help me by Donating
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/stvherrerar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/esteban4business) 
 
 <!-- Links -->
