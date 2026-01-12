@@ -34,6 +34,12 @@
 [<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face<br /><br />
 [<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
 
+
+[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle ·
+[<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face ·
+[<img alt="DataCamp" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
+
+
 #### Programming Profiles
 
 [<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit<br /><br />
