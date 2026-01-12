@@ -24,14 +24,14 @@
 
 ### Data Profiles
 
-[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle&nbsp;&nbsp;
-[<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face&nbsp;&nbsp;
+[<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle&nbsp;&nbsp;&nbsp;
+[<img alt="Hugging Face" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face&nbsp;&nbsp;&nbsp;
 [<img alt="DataCamp" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp
 
 ### Programming Profiles
 
-[<img alt="Replit" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit&nbsp;&nbsp;
-[<img alt="HackerRank" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] HackerRank&nbsp;&nbsp;
+[<img alt="Replit" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit&nbsp;&nbsp;&nbsp;
+[<img alt="HackerRank" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] HackerRank&nbsp;&nbsp;&nbsp;
 [<img alt="Microsoft Learn" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] Microsoft Learn
 
 ## 🛠️ Languages and Tools
