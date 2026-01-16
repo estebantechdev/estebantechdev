@@ -17,11 +17,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-esteban-herrera55859580) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/esteban_records) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@devpills-yt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/electrorama7052) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/stvherre) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@stv.herrera)
 
-<!--
-[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][linkedin] LinkedIn<br /><br />
-[<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][youtube] YouTube
--->
-
 ### Data Profiles
 
 [<img alt="Kaggle" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle&nbsp;&nbsp;&nbsp;
@@ -54,77 +49,43 @@
 
 ## 💻 Tech Stack
 
-<!--
-### 🧠 Programming Languages
-Shell Script · C · C# · C++ · Crystal · Clojure · Go · Fortran · Erlang · Elm · Elixir · Dart · Haskell · Java · JavaScript · Julia · Kotlin · LaTeX · R · Python · Perl · PHP · Octave · Nim · Lua · Ruby · Rust · Scala · Solidity · Swift · Zig · Groovy · Markdown
--->
+<!-- 🧠 Programming Languages -->
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)-->
-<!--![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)-->
-<!--![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)-->
-<!--![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)-->
-<!--![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)-->
+<!--![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)-->
+<!--[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)-->
 
-<!--
-### 🎨 Frontend Markup & Styling
-HTML5 · CSS3 · Sass · Less · Stylus · TailwindCSS · Bootstrap · Pug · Styled Components · Chakra UI · MUI · Ant Design · Semantic UI React · Vuetify · Buefy
--->
+<!-- 🎨 Frontend Markup & Styling -->
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-<!--![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)-->
+<!--[Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 
-<!--
-### ⚛️ Frontend Frameworks & Libraries
-React · Vue.js · Angular · AngularJS · Svelte · Ember · Aurelia · Gatsby · Next.js · Nuxt.js · Meteor · Quasar · jQuery · Redux · React Router · GreenSock · Three.js · p5.js
--->
+<!-- ⚛️ Frontend Frameworks & Libraries -->
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<!--![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)-->
-<!--![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)-->
-<!--![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)-->
-<!--![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)-->
 
-<!--
-### 📱 Mobile & Desktop
-React Native · Flutter · Expo · Electron · Xamarin · Qt
--->
+<!-- 📱 Mobile & Desktop -->
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-<!--
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
--->
+<!--![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)-->
+<!--![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)-->
 
-<!--
-### 🧩 Backend Frameworks & APIs
-Node.js · Express.js · NestJS · Fastify · Flask · Django · Django REST · FastAPI · Laravel · Symfony · Rails · Spring · AdonisJS · CodeIgniter · Strapi
--->
+<!-- 🧩 Backend Frameworks & APIs -->
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-<!--![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)-->
 
-<!--
-### 🗄️ Databases & Storage
-MySQL · PostgreSQL · SQLite · MariaDB · MongoDB · Redis · Cassandra · Couchbase · Neo4j · CockroachDB · DynamoDB · SQL Server · Realm · Supabase
--->
+<!--  🗄️ Databases & Storage -->
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -133,10 +94,7 @@ MySQL · PostgreSQL · SQLite · MariaDB · MongoDB · Redis · Cassandra · Cou
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<!--
-### ☁️ Cloud & Hosting
-AWS · Azure · Google Cloud · Firebase · DigitalOcean · Oracle Cloud · OpenStack · Cloudflare · Heroku · Netlify · Vercel
--->
+<!-- ☁️ Cloud & Hosting -->
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -144,45 +102,31 @@ AWS · Azure · Google Cloud · Firebase · DigitalOcean · Oracle Cloud · Open
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-<!--![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)-->
-
-<!--
-### 🛠️ DevOps & Infrastructure
-Docker · Kubernetes · Terraform · Ansible · Vagrant · Rancher · Jenkins · Apache · Nginx · Airflow · Flink
--->
+<!-- 🛠️ DevOps & Infrastructure -->
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+<!--![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)-->
 
-<!--
-### 📊 Data Science & AI
-NumPy · Pandas · SciPy · Plotly · scikit-learn · TensorFlow · PyTorch · Keras · OpenCV
--->
+<!-- 📊 Data Science & AI -->
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<!--![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)-->
 <!--![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)-->
 
-<!--
-### 🤝 Collaboration & Productivity
-Jira · Trello · Confluence · Notion · Postman · Insomnia · Prezi
--->
+<!-- 🤝 Collaboration & Productivity -->
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
-### 🔌 Embedded & Hardware
-Arduino · Raspberry Pi · ROS
--->
+<!-- 🔌 Embedded & Hardware -->
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -198,13 +142,6 @@ Arduino · Raspberry Pi · ROS
 ![](https://github-trophies.vercel.app/?username=estebantechdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Esteban's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=estebantechdev&show_icons=true&hide_border=true" />
-
-</details>
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
@@ -243,7 +180,7 @@ Arduino · Raspberry Pi · ROS
 
 ## 📦 Public Container Images
 
-- [mono-app-db-stages-CICD:dev](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
+- [debian-postgres-dev-test-prod-stages-CICD:dev](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
 
 ## ✍️ Random Dev Quote
 
