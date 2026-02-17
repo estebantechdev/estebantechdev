@@ -1,6 +1,6 @@
-![My GitHub Game](game.gif)
-
 ## Hello World, I'm Esteban 👋
+
+![My GitHub Game](game.gif)
 
  <img align="right" alt="Esteban" src="https://github.com/estebantechdev/estebantechdev/blob/main/code.jpg?raw=true" width="500" height="260" />
 
