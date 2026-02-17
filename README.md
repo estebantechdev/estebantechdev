@@ -1,7 +1,5 @@
 ## Hello World, I'm Esteban 👋
 
-![My GitHub Game](game.gif)
-
  <img align="right" alt="Esteban" src="https://github.com/estebantechdev/estebantechdev/blob/main/code.jpg?raw=true" width="500" height="260" />
 
 ### I'm a Software Developer!!
@@ -14,6 +12,8 @@
 ⚡ Fun fact: I always think of debugging as being a detective in a crime movie
 
 **Talk with me, I am kinda awesome.**
+
+![My GitHub Game](game.gif)
 
 ## 🌐 Socials
 
