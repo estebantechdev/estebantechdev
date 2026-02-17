@@ -171,13 +171,13 @@
 
 - [debian-postgres-dev-test-prod-stages-cicd-ready:dev](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
 
-## 👾 Contribution Heatmap
-
-![My GitHub Game](game.gif)
-
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 👾 Contribution Heatmap
+
+![My GitHub Game](game.gif)
 
 ---
 
