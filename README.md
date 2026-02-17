@@ -123,6 +123,8 @@
 
 ## 📊 Stats
 
+![My GitHub Game](game.gif)
+
 [![github](https://img.shields.io/github/followers/estebantechdev?logo=github&style=plastic)](https://github.com/estebantechdev?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
 
