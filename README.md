@@ -13,8 +13,6 @@
 
 **Talk with me, I am kinda awesome.**
 
-![My GitHub Game](game.gif)
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-esteban-herrera55859580) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/esteban_records) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@devpills-yt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/electrorama7052) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/stvherre) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@stv.herrera)
@@ -172,6 +170,10 @@
 ## 📦 Public Container Images
 
 - [debian-postgres-dev-test-prod-stages-cicd-ready:dev](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready/pkgs/container/estebantechdev%2Fdebian-postgres-dev-test-prod-stages-cicd-ready)
+
+## 👾 Contribution Heatmap
+
+![My GitHub Game](game.gif)
 
 ## ✍️ Random Dev Quote
 
