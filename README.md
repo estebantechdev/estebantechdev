@@ -153,16 +153,18 @@ TODO: Cats and tables.
 
 |Application|Description|
 |-------|-----------|
-|[promptclt](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal |
+|[promptclt](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |
 
 **Category**
 
 |Application|Description|
 |-------|-----------|
-|[projectname1](link_to_repo)|emoji description |
-|[projectname2](link_to_repo)|emoji description |
+|[projectname1](link_to_repo)|emoji description. |
+|[projectname2](link_to_repo)|emoji description. |
 
-[🗂️ Full list](repository_categories.md) of *@estebantechdev* GitHub repositories by category
+---
+
+🗂️ [Full list](repository_categories.md) of *@estebantechdev* GitHub repositories by category.
 
 ## 📦 Public Container Images
 
