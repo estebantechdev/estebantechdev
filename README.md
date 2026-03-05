@@ -147,20 +147,70 @@
 
 The projects listed here are stable software distributed for public evaluation and use, with structured development practices and versioned releases. Each repository reflects officially published versions available to the community, emphasizing clarity, maintainability, and practical application.
 
-TODO: Cats and tables.
+**Artificial Intelligence & AI-Powered Assistants**
 
-**Artificial Intelligence** 
+<!-- Categories: ✨💙-->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|
+|[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|
 
-|Application|Description|
-|-------|-----------|
-|[promptclt](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |
+**Development**
 
-**Category**
+<!-- Categories: 🛠️-->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[appname](link)|Emoji Desc.|Langs|
+|[appname](link)|Emoji Desc.|Langs|
 
-|Application|Description|
-|-------|-----------|
-|[projectname1](link_to_repo)|emoji description. |
-|[projectname2](link_to_repo)|emoji description. |
+**Websites**
+
+<!-- Categories: 🕸️👽️⚔️💀️-->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[appname](link)|Emoji Desc.|Langs|
+|[appname](link)|Emoji Desc.|Langs|
+
+**Data**
+
+<!-- Categories: 🔬️-->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[appname](link)|Emoji Desc.|Langs|
+|[appname](link)|Emoji Desc.|Langs|
+
+**🐚 Shell Scripts**
+
+<!-- Categories: 🐚-->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[appname](link)|Emoji Desc.|Langs|
+|[appname](link)|Emoji Desc.|Langs|
+
+**DevOps**
+
+<!-- Categories: ♾️-->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[appname](link)|Emoji Desc.|Langs|
+|[appname](link)|Emoji Desc.|Langs|
+
+## 📘️ Books And Documentation
+
+These resources are documentation-based and do not include versioned releases.
+
+<!-- Categories: 📘️📝-->
+|Name|Description|Technology|
+|-----------|-----------|---------|
+|[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|
+|[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
+|[Name](link)|Emoji Desc.|md/txt/xml|
+|[Name](link)|Emoji Desc.|md/txt/xml|
+|[Name](link)|Emoji Desc.|md/txt/xml|
+|[Name](link)|Emoji Desc.|md/txt/xml|
+|[Name](link)|Emoji Desc.|md/txt/xml|
+|[Name](link)|Emoji Desc.|md/txt/xml|
+|[Name](link)|Emoji Desc.|md/txt/xml|
 
 ---
 
