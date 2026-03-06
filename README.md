@@ -154,8 +154,8 @@ The **other projects** listed here are not officially released versions, but car
 |-----------|-----------|---------|--------|
 |[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|-|
 |[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|-|
-|[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|-|
-|[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|-|
+|[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|✔|
+|[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|✔|
 <!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 **Development Tools**
@@ -163,7 +163,7 @@ The **other projects** listed here are not officially released versions, but car
 
 |Application|Description|Languages|Released|
 |-----------|-----------|---------|--------|
-|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Bash|-|
+|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Bash|✔|
 |[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|-|
 |[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|-|
 |[git-commit-emoji-conventions](https://github.com/estebantechdev/git-commit-emoji-conventions)|🐙 📝 A Git Commit Emoji Conventions Table.|Markdown|-|
@@ -204,7 +204,7 @@ The **other projects** listed here are not officially released versions, but car
 
 |Application|Description|Languages|Released|
 |-----------|-----------|---------|--------|
-|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash|-|
+|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash|✔|
 |[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python, Dockerfile|-|
 <!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
