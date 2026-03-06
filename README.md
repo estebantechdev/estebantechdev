@@ -240,9 +240,9 @@ These resources are documentation-based and do not log versioned releases in the
 [Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧 📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
----
+## 🗂️ Full List of Repositories
 
-🗂️ [Full list](repository_categories.md) of *@estebantechdev* GitHub repositories by category.
+[Full list](repository_categories.md) of ***@estebantechdev*** GitHub repositories by category.
 
 ## 📦 Public Container Images
 
