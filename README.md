@@ -232,9 +232,9 @@ These resources are documentation-based and do not include versioned releases.
 |[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
 |[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Bash, TypeScript, Python, Ruby, HTML, CSS|
 |[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|
-|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Bash, JavaScript, Python|
-[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|📘️ 🐧 The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Bash, Other|
-[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|📘️ 🐧 Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
+|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ 📝 A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Bash, JavaScript, Python|
+[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|🐧 📘️ The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Bash, Other|
+[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
 ---
