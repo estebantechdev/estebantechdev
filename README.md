@@ -150,63 +150,63 @@ The **other projects** listed here are not officially released versions, but car
 **Artificial Intelligence & AI-Powered Assistants**
 <!-- Categories: ✨💙 -->
 
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|
-|[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|
-|[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|
-|[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|Application|Description|Languages|Released|
+|-----------|-----------|---------|--------|
+|[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|-|
+|[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|-|
+|[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|-|
+|[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|-|
+<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 **Development Tools**
 <!-- Categories: 🛠️🔬️ -->
 
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Bash|
-|[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|
-|[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|
-|[git-commit-emoji-conventions](https://github.com/estebantechdev/git-commit-emoji-conventions)|🐙 📝 A Git Commit Emoji Conventions Table.|Markdown|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|Application|Description|Languages|Released|
+|-----------|-----------|---------|--------|
+|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Bash|-|
+|[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|-|
+|[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|-|
+|[git-commit-emoji-conventions](https://github.com/estebantechdev/git-commit-emoji-conventions)|🐙 📝 A Git Commit Emoji Conventions Table.|Markdown|-|
+<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 **Webapps And Websites**
 <!-- Categories: 🕸️👽️⚔️💀️📚️🏕️ -->
 
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|
-|[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|
-|[estebantechdev](https://github.com/estebantechdev/estebantechdev)|🐙️ GitHub Profile Overview.|Markdown|
-|[estebantechdev.github.io](https://github.com/estebantechdev/estebantechdev.github.io)|🐙️ GitHub I/O website.|HTML, CSS|
-|[Old School Front End Web Exercises](https://github.com/estebantechdev/old-school-front-end-web-exercises)|💀️ Old school front end web exercises.|HTML, JavaScript, CSS, PHP|
-|[newzappers](https://github.com/estebantechdev/newzappers)|🏕️ New Zappers Product Landing Page.|HTML, CSS|
-[Google Homepage](https://github.com/estebantechdev/google-homepage)|⚔️ The Odin Project project.|CSS3, HTML, JavaScript|
-|[proyecto_final_html_css](https://github.com/estebantechdev/proyecto_final_html_css)|👽️ LarnU Bootcamp project.|HTML, CSS|
-|[api_js](https://github.com/estebantechdev/api_js)|👽️ LarnU Bootcamp challenge.|CSS, JavaScript, HTML|
-|[api_weather_js](https://github.com/estebantechdev/api_weather_js)|👽️ LarnU Bootcamp project.|CSS, JavaScript, HTML|
-|[challenge_js](https://github.com/larnu-bootcamp/challenge_js)|A challenge for the bootcamp developers, where they will have to create a website together.|JavaScript, CSS, HTML|
-|[react_introduccion](https://github.com/estebantechdev/react_introduccion)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|
-|[react_todos_init](https://github.com/estebantechdev/react_todos_init)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|
-|[react_formik](https://github.com/estebantechdev/react_formik)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|
-|[Commbase Docs](https://github.com/mydroidandi/commbase-docs)|The official Commbase documentation online.|Vue, Markdown|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|Application|Description|Languages|Released|
+|-----------|-----------|---------|--------|
+|[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|-|
+|[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|-|
+|[estebantechdev](https://github.com/estebantechdev/estebantechdev)|🐙️ GitHub Profile Overview.|Markdown|-|
+|[estebantechdev.github.io](https://github.com/estebantechdev/estebantechdev.github.io)|🐙️ GitHub I/O website.|HTML, CSS|-|
+|[Old School Front End Web Exercises](https://github.com/estebantechdev/old-school-front-end-web-exercises)|💀️ Old school front end web exercises.|HTML, JavaScript, CSS, PHP|-|
+|[newzappers](https://github.com/estebantechdev/newzappers)|🏕️ New Zappers Product Landing Page.|HTML, CSS|-|
+[Google Homepage](https://github.com/estebantechdev/google-homepage)|⚔️ The Odin Project project.|CSS3, HTML, JavaScript|-|
+|[proyecto_final_html_css](https://github.com/estebantechdev/proyecto_final_html_css)|👽️ LarnU Bootcamp project.|HTML, CSS|-|
+|[api_js](https://github.com/estebantechdev/api_js)|👽️ LarnU Bootcamp challenge.|CSS, JavaScript, HTML|-|
+|[api_weather_js](https://github.com/estebantechdev/api_weather_js)|👽️ LarnU Bootcamp project.|CSS, JavaScript, HTML|-|
+|[challenge_js](https://github.com/larnu-bootcamp/challenge_js)|A challenge for the bootcamp developers, where they will have to create a website together.|JavaScript, CSS, HTML|-|
+|[react_introduccion](https://github.com/estebantechdev/react_introduccion)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|-|
+|[react_todos_init](https://github.com/estebantechdev/react_todos_init)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|-|
+|[react_formik](https://github.com/estebantechdev/react_formik)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|-|
+|[Commbase Docs](https://github.com/mydroidandi/commbase-docs)|The official Commbase documentation online.|Vue, Markdown|-|
+<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 **Shell Scripts**
 <!-- Categories: 🐚 -->
 
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|Application|Description|Languages|Released|
+|-----------|-----------|---------|--------|
+|[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|-|
+<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 **Deployment, automation, and system tools**
 <!-- Categories: ♾️ -->
 
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash|
-|[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python, Dockerfile|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|Application|Description|Languages|Released|
+|-----------|-----------|---------|--------|
+|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash|-|
+|[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python, Dockerfile|-|
+<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 <!-- 
 **Data**
@@ -216,15 +216,15 @@ Categories: 🔬️
 **Microcontrollers**
 <!-- Categories: 🦾 -->
 
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[blink-led](https://github.com/estebantechdev/blink-led)|🦾 Turns an LED on for one second, then off for one second, repeatedly.|C++|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|Application|Description|Languages|Released|
+|-----------|-----------|---------|--------|
+|[blink-led](https://github.com/estebantechdev/blink-led)|🦾 Turns an LED on for one second, then off for one second, repeatedly.|C++|-|
+<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
 ## 📘️ Books And Documentation
 <!-- Categories: 📘️📝-->
 
-These resources are documentation-based and do not include versioned releases.
+These resources are documentation-based and do not log versioned releases in their repositories themselves.
 
 |Name|Description|Technologies|
 |-----------|-----------|---------|
