@@ -147,6 +147,9 @@ Projects marked as **versioned releases** represent stable software distributed 
 
 The **other projects** listed here are not officially released versions, but carefully selected repositories that showcase consistent quality, thoughtful design, and reliable development practices.
 
+Most projects here follow the versioning scheme described in:
+[Following The Spirit Of Semantic Versioning](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook/blob/main/content/following_the_spirit_of_semantic_versioning/README.md).
+
 **Artificial Intelligence & AI-Powered Assistants**
 <!-- Categories: ✨💙 -->
 
