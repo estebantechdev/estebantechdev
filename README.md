@@ -234,7 +234,7 @@ These resources are documentation-based and do not include versioned releases.
 |[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|
 |[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ 📝 A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Bash, JavaScript, Python|
 [DIY Linux](https://github.com/estebantechdev/diy-linux-book)|🐧 📘️ The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Bash, Other|
-[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
+[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧 📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
 ---
