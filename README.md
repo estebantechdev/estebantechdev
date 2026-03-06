@@ -143,9 +143,9 @@
 
 ## ⭐ Key Open-Source Projects
 
-### Handpicked repositories showcasing quality and consistency
+Projects marked as **versioned releases** represent stable software distributed for public evaluation and use, developed following structured practices. Each repository reflects officially published versions available to the community, emphasizing clarity, maintainability, and practical application.
 
-The projects listed here are stable software distributed for public evaluation and use, with structured development practices and versioned releases. Each repository reflects officially published versions available to the community, emphasizing clarity, maintainability, and practical application.
+The **other projects** listed here are not officially released versions, but carefully selected repositories that showcase consistent quality, thoughtful design, and reliable development practices.
 
 **Artificial Intelligence & AI-Powered Assistants**
 <!-- Categories: ✨💙 -->
