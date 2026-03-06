@@ -147,6 +147,9 @@ Projects marked as **versioned releases** represent stable software distributed 
 
 The **other projects** listed here are not officially released versions, but carefully selected repositories that showcase consistent quality, thoughtful design, and reliable development practices.
 
+Most projects here follow the versioning scheme described in:
+[Following The Spirit Of Semantic Versioning](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook/blob/main/content/following_the_spirit_of_semantic_versioning/README.md).
+
 **Artificial Intelligence & AI-Powered Assistants**
 <!-- Categories: ✨💙 -->
 
@@ -237,9 +240,9 @@ These resources are documentation-based and do not log versioned releases in the
 [Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧 📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
----
+## 🗂️ Full List of Repositories
 
-🗂️ [Full list](repository_categories.md) of *@estebantechdev* GitHub repositories by category.
+[Full list](repository_categories.md) of ***@estebantechdev*** GitHub repositories by category.
 
 ## 📦 Public Container Images
 
