@@ -176,8 +176,8 @@ The projects listed here are stable software distributed for public evaluation a
 |-----------|-----------|---------|
 |[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|
 |[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|
-|[estebantechdev](https://github.com/estebantechdev/estebantechdev)|GitHub Profile page.|Markdown|
-|[estebantechdev.github.io](https://github.com/estebantechdev/estebantechdev.github.io)|GitHub I/O website.|HTML, CSS|
+|[estebantechdev](https://github.com/estebantechdev/estebantechdev)|🐙️ GitHub Profile Overview.|Markdown|
+|[estebantechdev.github.io](https://github.com/estebantechdev/estebantechdev.github.io)|🐙️ GitHub I/O website.|HTML, CSS|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
