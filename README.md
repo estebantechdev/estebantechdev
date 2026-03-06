@@ -163,7 +163,7 @@ The **other projects** listed here are not officially released versions, but car
 
 |Application|Description|Languages|
 |-----------|-----------|---------|
-|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Shell|
+|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Bash|
 |[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|
 |[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|
 |[git-commit-emoji-conventions](https://github.com/estebantechdev/git-commit-emoji-conventions)|🐙 📝 A Git Commit Emoji Conventions Table.|Markdown|
@@ -204,7 +204,7 @@ The **other projects** listed here are not officially released versions, but car
 
 |Application|Description|Languages|
 |-----------|-----------|---------|
-|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash, Shell|
+|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash|
 |[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python, Dockerfile|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
@@ -230,10 +230,10 @@ These resources are documentation-based and do not include versioned releases.
 |-----------|-----------|---------|
 |[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|
 |[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
-|[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Shell, TypeScript, Python, Ruby, HTML, CSS|
+|[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Bash, TypeScript, Python, Ruby, HTML, CSS|
 |[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|
-|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Shell, JavaScript, Python|
-[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|📘️ 🐧 The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Other|
+|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Bash, JavaScript, Python|
+[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|📘️ 🐧 The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Bash, Other|
 [Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|📘️ 🐧 Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
