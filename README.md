@@ -181,7 +181,7 @@ The projects listed here are stable software distributed for public evaluation a
 |[Old School Front End Web Exercises](https://github.com/estebantechdev/old-school-front-end-web-exercises)|💀️ Old school front end web exercises.|HTML, JavaScript, CSS, PHP|
 |[newzappers](https://github.com/estebantechdev/newzappers)|🏕️ New Zappers Product Landing Page.|HTML, CSS|
 [Google Homepage](https://github.com/estebantechdev/google-homepage)|⚔️ The Odin Project project.|CSS3, HTML, JavaScript|
-|[proyecto_final_html_css](https://github.com/estebantechdev/proyecto_final_html_css)|👽️ LarnU Bootcamp project.|HTML CSS|
+|[proyecto_final_html_css](https://github.com/estebantechdev/proyecto_final_html_css)|👽️ LarnU Bootcamp project.|HTML, CSS|
 |[api_js](https://github.com/estebantechdev/api_js)|👽️ LarnU Bootcamp challenge.|CSS, JavaScript, HTML|
 |[api_weather_js](https://github.com/estebantechdev/api_weather_js)|👽️ LarnU Bootcamp project.|CSS, JavaScript, HTML|
 |[challenge_js](https://github.com/larnu-bootcamp/challenge_js)|A challenge for the bootcamp developers, where they will have to create a website together.|JavaScript, CSS, HTML|
@@ -205,7 +205,7 @@ The projects listed here are stable software distributed for public evaluation a
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash, Shell|
-|[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python Dockerfile|
+|[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python, Dockerfile|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 <!-- 
