@@ -148,8 +148,8 @@
 The projects listed here are stable software distributed for public evaluation and use, with structured development practices and versioned releases. Each repository reflects officially published versions available to the community, emphasizing clarity, maintainability, and practical application.
 
 **Artificial Intelligence & AI-Powered Assistants**
-
 <!-- Categories: ✨💙 -->
+
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|
@@ -159,8 +159,8 @@ The projects listed here are stable software distributed for public evaluation a
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **Development Tools**
-
 <!-- Categories: 🛠️🔬️ -->
+
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Shell|
@@ -170,8 +170,8 @@ The projects listed here are stable software distributed for public evaluation a
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **Webapps And Websites**
-
 <!-- Categories: 🕸️👽️⚔️💀️📚️🏕️ -->
+
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|
@@ -183,49 +183,49 @@ The projects listed here are stable software distributed for public evaluation a
 [Google Homepage](https://github.com/estebantechdev/google-homepage)|⚔️ The Odin Project project.|CSS3, HTML, JavaScript|
 |[proyecto_final_html_css](https://github.com/estebantechdev/proyecto_final_html_css)|👽️ LarnU Bootcamp project.|HTML CSS|
 |[api_js](https://github.com/estebantechdev/api_js)|👽️ LarnU Bootcamp challenge.|CSS, JavaScript, HTML|
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
-<!-- |[appname](link)|Emoji Desc.|Langs| -->
+|[api_weather_js](https://github.com/estebantechdev/api_weather_js)|👽️ LarnU Bootcamp project.|CSS, JavaScript, HTML|
+|[challenge_js](https://github.com/larnu-bootcamp/challenge_js)|A challenge for the bootcamp developers, where they will have to create a website together.|JavaScript, CSS, HTML|
+|[react_introduccion](https://github.com/estebantechdev/react_introduccion)|👽️ LarnU Bootcamp challenge.|JavaScript, CSS, HTML|
+|[react_todos_init](https://github.com/estebantechdev/react_todos_init)|👽️ LarnU Bootcamp challenge.|JavaScript, CSS, HTML|
+|[react_formik](https://github.com/estebantechdev/react_formik)|👽️ LarnU Bootcamp challenge.|JavaScript, CSS, HTML|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **Shell Scripts**
-
 <!-- Categories: 🐚 -->
+
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **Deployment, automation, and system tools**
-
 <!-- Categories: ♾️ -->
+
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash, Shell|
 |[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python Dockerfile|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
+<!-- 
 **Data**
-
-<!-- Categories: 🔬️ -->
-|Name|Description|Techs|
-|-----------|-----------|---------|
-<!-- |[name](link)|Emoji Desc.|Techs| -->
+Categories: 🔬️
+-->
 
 **Microcontrollers**
 <!-- Categories: 🦾 -->
+
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[blink-led](https://github.com/estebantechdev/blink-led)|🦾 Turns an LED on for one second, then off for one second, repeatedly.|C++|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 ## 📘️ Books And Documentation
+<!-- Categories: 📘️📝-->
 
 These resources are documentation-based and do not include versioned releases.
 
-<!-- Categories: 📘️📝-->
-|Name|Description|Technology|
+|Name|Description|Technologies|
 |-----------|-----------|---------|
 |[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|
 |[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
