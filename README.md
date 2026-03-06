@@ -149,15 +149,17 @@ The projects listed here are stable software distributed for public evaluation a
 
 **Artificial Intelligence & AI-Powered Assistants**
 
-<!-- Categories: ✨💙-->
+<!-- Categories: ✨💙 -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|
 |[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|
+|[commbase-text-translator-phi3-mini]([link](https://github.com/mydroidandi/commbase-text-translator-phi3-mini))|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|
+|[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|
 
 **Development**
 
-<!-- Categories: 🛠️-->
+<!-- Categories: 🛠️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[appname](link)|Emoji Desc.|Langs|
@@ -165,7 +167,7 @@ The projects listed here are stable software distributed for public evaluation a
 
 **Websites**
 
-<!-- Categories: 🕸️👽️⚔️💀️-->
+<!-- Categories: 🕸️👽️⚔️💀️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[appname](link)|Emoji Desc.|Langs|
@@ -173,7 +175,7 @@ The projects listed here are stable software distributed for public evaluation a
 
 **Data**
 
-<!-- Categories: 🔬️-->
+<!-- Categories: 🔬️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[appname](link)|Emoji Desc.|Langs|
@@ -181,7 +183,7 @@ The projects listed here are stable software distributed for public evaluation a
 
 **🐚 Shell Scripts**
 
-<!-- Categories: 🐚-->
+<!-- Categories: 🐚 -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[appname](link)|Emoji Desc.|Langs|
@@ -189,7 +191,7 @@ The projects listed here are stable software distributed for public evaluation a
 
 **DevOps**
 
-<!-- Categories: ♾️-->
+<!-- Categories: ♾️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[appname](link)|Emoji Desc.|Langs|
