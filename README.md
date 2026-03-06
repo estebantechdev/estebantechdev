@@ -156,46 +156,54 @@ The projects listed here are stable software distributed for public evaluation a
 |[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|
 |[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|
 |[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 
-**Development**
+**Development Tools**
 
 <!-- Categories: 🛠️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
-|[appname](link)|Emoji Desc.|Langs|
-|[appname](link)|Emoji Desc.|Langs|
+|[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Shell|
+|[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|
+|[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 
-**Websites**
+**Webapps And Websites**
 
-<!-- Categories: 🕸️👽️⚔️💀️ -->
+<!-- Categories: 🕸️👽️⚔️💀️📚️🏕️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
-|[appname](link)|Emoji Desc.|Langs|
-|[appname](link)|Emoji Desc.|Langs|
-
-**Data**
-
-<!-- Categories: 🔬️ -->
-|Application|Description|Languages|
-|-----------|-----------|---------|
-|[appname](link)|Emoji Desc.|Langs|
-|[appname](link)|Emoji Desc.|Langs|
+|[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|
+|[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **🐚 Shell Scripts**
 
 <!-- Categories: 🐚 -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
-|[appname](link)|Emoji Desc.|Langs|
-|[appname](link)|Emoji Desc.|Langs|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **DevOps**
 
 <!-- Categories: ♾️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
-|[appname](link)|Emoji Desc.|Langs|
-|[appname](link)|Emoji Desc.|Langs|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
+
+**Data**
+
+<!-- Categories: 🔬️ -->
+|Name|Description|Techs|
+|-----------|-----------|---------|
+<!-- |[name](link)|Emoji Desc.|Techs| -->
+
+**Microcontrollers**
+<!-- Categories: ♾️ -->
+|Application|Description|Languages|
+|-----------|-----------|---------|
+|[blink-led](https://github.com/estebantechdev/blink-led)|🦾 Turns an LED on for one second, then off for one second, repeatedly.|C++|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 ## 📘️ Books And Documentation
 
@@ -206,13 +214,8 @@ These resources are documentation-based and do not include versioned releases.
 |-----------|-----------|---------|
 |[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|
 |[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
-|[Name](link)|Emoji Desc.|md/txt/xml|
-|[Name](link)|Emoji Desc.|md/txt/xml|
-|[Name](link)|Emoji Desc.|md/txt/xml|
-|[Name](link)|Emoji Desc.|md/txt/xml|
-|[Name](link)|Emoji Desc.|md/txt/xml|
-|[Name](link)|Emoji Desc.|md/txt/xml|
-|[Name](link)|Emoji Desc.|md/txt/xml|
+|[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Shell, TypeScript, Python, Ruby, HTML, CSS|
+<!-- |[name](link)|Emoji Desc.|Techs| -->
 
 ---
 
