@@ -189,7 +189,7 @@ The projects listed here are stable software distributed for public evaluation a
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
-**🐚 Shell Scripts**
+**Shell Scripts**
 
 <!-- Categories: 🐚 -->
 |Application|Description|Languages|
