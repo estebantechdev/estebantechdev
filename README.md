@@ -160,12 +160,13 @@ The projects listed here are stable software distributed for public evaluation a
 
 **Development Tools**
 
-<!-- Categories: 🛠️ -->
+<!-- Categories: 🛠️🔬️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Shell|
 |[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|
 |[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|
+|[git-commit-emoji-conventions](https://github.com/estebantechdev/git-commit-emoji-conventions)|🐙 📝 A Git Commit Emoji Conventions Table.|Markdown|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **Webapps And Websites**
@@ -175,6 +176,9 @@ The projects listed here are stable software distributed for public evaluation a
 |-----------|-----------|---------|
 |[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|
 |[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|
+|[estebantechdev](https://github.com/estebantechdev/estebantechdev)|GitHub Profile page.|Markdown|
+|[estebantechdev.github.io](https://github.com/estebantechdev/estebantechdev.github.io)|GitHub I/O website.|HTML, CSS|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **🐚 Shell Scripts**
@@ -199,7 +203,7 @@ The projects listed here are stable software distributed for public evaluation a
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
 **Microcontrollers**
-<!-- Categories: ♾️ -->
+<!-- Categories: 🦾 -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
 |[blink-led](https://github.com/estebantechdev/blink-led)|🦾 Turns an LED on for one second, then off for one second, repeatedly.|C++|
@@ -215,6 +219,9 @@ These resources are documentation-based and do not include versioned releases.
 |[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|
 |[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
 |[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Shell, TypeScript, Python, Ruby, HTML, CSS|
+|[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|
+[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|📘️ 🐧 The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Other|
+[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|📘️ 🐧 Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
 ---
