@@ -186,13 +186,16 @@ The projects listed here are stable software distributed for public evaluation a
 <!-- Categories: 🐚 -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
+|[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
-**DevOps**
+**Deployment, automation, and system tools**
 
 <!-- Categories: ♾️ -->
 |Application|Description|Languages|
 |-----------|-----------|---------|
+|[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash, Shell|
+|[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python Dockerfile|
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
 **Data**
@@ -220,6 +223,7 @@ These resources are documentation-based and do not include versioned releases.
 |[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
 |[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Shell, TypeScript, Python, Ruby, HTML, CSS|
 |[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|
+|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Shell, JavaScript, Python|
 [DIY Linux](https://github.com/estebantechdev/diy-linux-book)|📘️ 🐧 The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Other|
 [Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|📘️ 🐧 Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
