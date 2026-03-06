@@ -178,6 +178,14 @@ The projects listed here are stable software distributed for public evaluation a
 |[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|
 |[estebantechdev](https://github.com/estebantechdev/estebantechdev)|🐙️ GitHub Profile Overview.|Markdown|
 |[estebantechdev.github.io](https://github.com/estebantechdev/estebantechdev.github.io)|🐙️ GitHub I/O website.|HTML, CSS|
+|[Old School Front End Web Exercises](https://github.com/estebantechdev/old-school-front-end-web-exercises)|💀️ Old school front end web exercises.|HTML, JavaScript, CSS, PHP|
+|[newzappers](https://github.com/estebantechdev/newzappers)|🏕️ New Zappers Product Landing Page.|HTML, CSS|
+[Google Homepage](https://github.com/estebantechdev/google-homepage)|⚔️ The Odin Project project.|CSS3, HTML, JavaScript|
+|[proyecto_final_html_css](https://github.com/estebantechdev/proyecto_final_html_css)|👽️ LarnU Bootcamp project.|HTML CSS|
+|[api_js](https://github.com/estebantechdev/api_js)|👽️ LarnU Bootcamp challenge.|CSS, JavaScript, HTML|
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
+<!-- |[appname](link)|Emoji Desc.|Langs| -->
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 <!-- |[appname](link)|Emoji Desc.|Langs| -->
 
