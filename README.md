@@ -29,7 +29,7 @@
 [<img alt="HackerRank" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] HackerRank&nbsp;&nbsp;&nbsp;
 [<img alt="Microsoft Learn" width="18px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] Microsoft Learn
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages And Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -240,7 +240,7 @@ These resources are documentation-based and do not log versioned releases in the
 [Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧 📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
 <!-- |[name](link)|Emoji Desc.|Techs| -->
 
-## 🗂️ Full List of Repositories
+## 🗂️ Full List Of Repositories
 
 [Full list](repository_categories.md) of ***@estebantechdev*** GitHub repositories by category.
 
@@ -254,7 +254,7 @@ These resources are documentation-based and do not log versioned releases in the
 
 ---
 
-## 💰 You can help me by Donating
+## 💰 You Can Help Me By Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stvherrerar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/esteban4business)
 
