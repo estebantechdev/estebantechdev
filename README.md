@@ -37,7 +37,7 @@
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][portfolio]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][mysql]
 [<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
@@ -271,7 +271,7 @@ These resources are documentation-based and do not log versioned releases in the
 <!-- [js]: https://github.com/larnu-bootcamp/challenge_js -->
 [js]: https://larnu-bootcamp.github.io/challenge_js/recursos-video/
 [react]: https://github.com/estebantechdev/react_introduccion
-<!--[nodejs]:-->
+[nodejs]: https://github.com/estebantechdev/typescript-rest-api
 [python]: https://github.com/mydroidandi/commbase
 [mysql]: https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book/blob/main/x2/home/xcapncrunchx/mysql-email-db/mysql-email-db.sql
 [postgresql]: https://github.com/estebantechdev/PostgreSQLDBQueryTool/blob/main/PostgreSQLDBQueryTool.ipynb
@@ -282,7 +282,7 @@ These resources are documentation-based and do not log versioned releases in the
 [hackerrank]: https://www.hackerrank.com/profile/stv_herrera
 [mslearn]: https://learn.microsoft.com/es-mx/users/estebanherrera/
 [googledevs]: https://developers.google.com/profile/u/estebanherrera
-[profile]:#talk-with-me-i-am-kinda-awesome
 [kaggle]: https://www.kaggle.com/estebanherrerac
 [hugging_face]: https://huggingface.co/aestebanh
 [datacamp]: https://www.datacamp.com/portfolio/herrerae?view=true
+[profile]:#talk-with-me-i-am-kinda-awesome
