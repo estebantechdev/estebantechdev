@@ -202,7 +202,7 @@ Most projects here follow the versioning scheme described in:
 |[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|-|
 <!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-**Deployment, automation, and system tools**
+**Deployment, Automation, And System Tools**
 <!-- Categories: ♾️ -->
 
 |Application|Description|Languages|Released|
