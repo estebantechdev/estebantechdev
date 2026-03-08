@@ -5,7 +5,6 @@
 ### I'm a Software Developer!!
 ✍ You can find my projects here [portfolio]  
 🔭 I’m currently working on my first robot  
-🌱 I’m currently learning React Native and Azure  
 👯 I’m looking to collaborate on open source  
 💬 Ask me about ... Anything  
 😄 Pronouns: He/Him  
@@ -147,36 +146,34 @@ Projects marked as **versioned releases** represent stable software distributed 
 
 The **other projects** listed here are not officially released versions, but carefully selected repositories that showcase consistent quality, thoughtful design, and reliable development practices.
 
-Most projects here follow the versioning scheme described in:
+🌱 Most projects here follow the versioning scheme described in:
 [Following The Spirit Of Semantic Versioning](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook/blob/main/content/following_the_spirit_of_semantic_versioning/README.md).
 
-**Artificial Intelligence & AI-Powered Assistants**
 <!-- Categories: ✨💙 -->
+**Artificial Intelligence & AI-Powered Assistants**
 
-|Application|Description|Languages|Released|
-|-----------|-----------|---------|--------|
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
 |[promptctl](https://github.com/estebantechdev/promptctl)|✨ promptctl is a modular CLI for composing, managing, and orchestrating reusable AI prompt components from the terminal. |Python|-|
 |[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|-|
 |[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|✔|
 |[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|✔|
-<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-**Development Tools**
 <!-- Categories: 🛠️🔬️ -->
+**Development Tools**
 
-|Application|Description|Languages|Released|
-|-----------|-----------|---------|--------|
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
 |[Sword Vim 🗡️](https://github.com/estebantechdev/sword-vim)|🛠️ 🔧 A lightweight Vim/Neovim text editor and IDE designed for simplicity and efficiency.|Vim Script, Lua, Bash|✔|
 |[PostgreSQLDBQueryTool](https://github.com/estebantechdev/PostgreSQLDBQueryTool)|🛠️ Allows you to interact with a PostgreSQL database, execute SQL queries, and view the results in a tabular format.|Jupyter Notebook|-|
 |[python-postgresql](https://github.com/estebantechdev/python-postgresql)|🛠️ Querying PostgreSQL with Python scripts.|Python|-|
 |[git-commit-emoji-conventions](https://github.com/estebantechdev/git-commit-emoji-conventions)|🐙 📝 A Git Commit Emoji Conventions Table.|Markdown|-|
-<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-**Webapps And Websites**
 <!-- Categories: 🕸️👽️⚔️💀️📚️🏕️ -->
+**Webapps And Websites**
 
-|Application|Description|Languages|Released|
-|-----------|-----------|---------|--------|
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
 |[LinkHub](https://github.com/estebantechdev/LinkHub)|🛠️ 🔗 Selected links organized like web browser bookmarks—supercharged with extra features.|HTML|-|
 |[DevCampTV](https://github.com/estebantechdev/devcamptv)|🛠️ 📺 A curated selection of courses for developers.|HTML|-|
 |[estebantechdev](https://github.com/estebantechdev/estebantechdev)|🐙️ GitHub Profile Overview.|Markdown|-|
@@ -192,53 +189,48 @@ Most projects here follow the versioning scheme described in:
 |[react_todos_init](https://github.com/estebantechdev/react_todos_init)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|-|
 |[react_formik](https://github.com/estebantechdev/react_formik)|👽️ LarnU Bootcamp challenge.|React, CSS, HTML|-|
 |[Commbase Docs](https://github.com/mydroidandi/commbase-docs)|The official Commbase documentation online.|Vue, Markdown|-|
-<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-**Shell Scripts**
 <!-- Categories: 🐚 -->
+**Shell Scripts**
 
-|Application|Description|Languages|Released|
-|-----------|-----------|---------|--------|
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
 |[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|-|
-<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-**Deployment, Automation, And System Tools**
 <!-- Categories: ♾️ -->
+**Deployment, Automation, And System Tools**
 
-|Application|Description|Languages|Released|
-|-----------|-----------|---------|--------|
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
 |[Pandoras](https://github.com/estebantechdev/pandoras)|♾️ Universal Chroot environment that can be deployed to most Linux distributions, enabling the creation of portable boxes transferable from one host to another.|Bash|✔|
 |[debian-postgres-dev-test-prod-stages-CICD-ready](https://github.com/estebantechdev/debian-postgres-dev-test-prod-stages-CICD-ready)|♾️ Debian-based PostgreSQL environment using Docker, structured for development, testing, and production stages, fully prepared for CI/CD pipelines.|Python, Dockerfile|-|
-<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-<!-- 
+<!--
+Categories: 🔬️ 
 **Data**
-Categories: 🔬️
 -->
 
-**Microcontrollers**
 <!-- Categories: 🦾 -->
+**Microcontrollers**
 
-|Application|Description|Languages|Released|
-|-----------|-----------|---------|--------|
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
 |[blink-led](https://github.com/estebantechdev/blink-led)|🦾 Turns an LED on for one second, then off for one second, repeatedly.|C++|-|
-<!-- |[appname](link)|Emoji Desc.|Langs|✔-| -->
 
-## 📘️ Books And Documentation
 <!-- Categories: 📘️📝-->
+## 📘️ Books And Documentation
 
-These resources are documentation-based and do not log versioned releases in their repositories themselves.
+These resources are documentation-based and log versioned releases outside their repositories.
 
-|Name|Description|Technologies|
-|-----------|-----------|---------|
-|[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|
-|[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|
-|[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Bash, TypeScript, Python, Ruby, HTML, CSS|
-|[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|
-|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ 📝 A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Bash, JavaScript, Python|
-[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|🐧 📘️ The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Bash, Other|
-[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧 📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|
-<!-- |[name](link)|Emoji Desc.|Techs| -->
+|Project|Description|Languages|Released|
+|-------|-----------|---------|--------|
+|[Spec-Driven Development](https://github.com/estebantechdev/Spec-Driven_Development)|✨ 📝 A practical guide and reference for Spec-Driven Development (SDD).|Markdown|-|
+|[AICompass](https://github.com/estebantechdev/AICompass)|✨ 📝 A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.|Markdown|-|
+|[dev-environment-setup](https://github.com/estebantechdev/dev-environment-setup)|🔧 📝 A comprehensive and customizable development environment setup for software developers.|Markdown, JavaScript, Bash, TypeScript, Python, Ruby, HTML, CSS|-|
+|[Git How-Tos and Workflows Handbook](https://github.com/estebantechdev/GitHow-TosAndWorkflowsHandbook)|🐙 📝 A complete compilation of Git tutorials, practical notes, and challenges designed to guide developers from first commit to advanced workflows.|Markdown|-|
+|[Practical Docker 🐳📦](https://github.com/estebantechdev/PracticalDocker)|♾️ 📝 A practical guide for installing Docker, creating containers, and transferring them between environments.|Markdown, Dockerfile, Bash, JavaScript, Python|-|
+[DIY Linux](https://github.com/estebantechdev/diy-linux-book)|🐧 📘️ The source of the book "DIY Linux: MASTER YOURSELF PURE BLEND DEBIAN DESKTOPS FROM A SCRATCH".|Plaintext, Markdown, Shell, Bash, Other|✔|
+[Linux Enterprise Sci-Fi (book)](https://github.com/estebantechdev/Linux-Enterprise-Sci-Fi-book)|🐧 📘️ Code for the scripts from the book "Linux Enterprise Sci-Fi - Scripts & Archivos de Configurado (Spanish Edition)".|Shell, Perl, Other|✔|
 
 ## 🗂️ Full List Of Repositories
 

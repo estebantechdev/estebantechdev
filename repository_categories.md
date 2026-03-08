@@ -10,11 +10,12 @@
 | 🔬️    | [Data](https://github.com/stars/estebantechdev/lists/data) | Data Analysis / Data Science. |
 | 🛠️    | [Development](https://github.com/stars/estebantechdev/lists/development) | Tools for programming improvement. |
 | ♾️    | [DevOps](https://github.com/stars/estebantechdev/lists/devops) | Deployment, automation, and system tools. |
+| 💰    | [Economics](https://github.com/stars/estebantechdev/lists/economics) | Economics, tokenomics, and the like. |
 | 💡    | [Electronic](https://github.com/stars/estebantechdev/lists/electronic) | All related to electronic. |
 | 🏕️    | [freeCodeCamp](https://github.com/stars/estebantechdev/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/). |
 | 🔱️    | [Forks](https://github.com/stars/estebantechdev/lists/forks) | Temporary Forks. |
 | 📚️    | [Full Stack open](https://github.com/stars/estebantechdev/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com). |
-| 🔮    | [Future ideas](https://github.com/stars/estebantechdev/lists/future-ideas) | 1 repository.|
+| 🔮    | [Future ideas](https://github.com/stars/estebantechdev/lists/future-ideas) | `1` repository.|
 | 🐙️    | [Git and GitHub](https://github.com/stars/estebantechdev/lists/github-account-estebantechde) | Git, GitHub, and GitHub account repos. |
 | 👽️    | [LarnU Bootcamp](https://github.com/stars/estebantechdev/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp). |
 | 💙    | [My Droid and I](https://github.com/stars/estebantechdev/lists/my-droid-and-i) 🔒️ | My Droid And I organization. |
