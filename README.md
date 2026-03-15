@@ -198,7 +198,7 @@ The **other projects** listed here are not officially released versions, but car
 |[back-up-and-restore-scripts](https://github.com/estebantechdev/back-up-and-restore-scripts)|🐚 Scripts for backing up and restoring custom directories, files, images, containers, and databases efficiently.|Bash|-|
 
 <!-- Categories: ♾️ -->
-**Deployment, Automation, And System Tools**
+**Deployment, automation, system tools, infrastructure**
 
 |Project|Description|Languages|Released|
 |-------|-----------|---------|--------|
