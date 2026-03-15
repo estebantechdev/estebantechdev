@@ -9,7 +9,7 @@
 | 🔧    | [Config](https://github.com/stars/estebantechdev/lists/config) | Configuration, setup, or environment-definition files. |
 | 🔬️    | [Data](https://github.com/stars/estebantechdev/lists/data) | Data Analysis / Data Science. |
 | 🛠️    | [Development](https://github.com/stars/estebantechdev/lists/development) | Tools for programming improvement. |
-| ♾️    | [DevOps](https://github.com/stars/estebantechdev/lists/devops) | Deployment, automation, and system tools. |
+| ♾️    | [Dev & Ops](https://github.com/stars/estebantechdev/lists/dev-ops) | Deployment, automation, and system tools. |
 | 💰    | [Economics](https://github.com/stars/estebantechdev/lists/economics) | Economics, tokenomics, and the like. |
 | 💡    | [Electronic](https://github.com/stars/estebantechdev/lists/electronic) | All related to electronic. |
 | 🏕️    | [freeCodeCamp](https://github.com/stars/estebantechdev/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/). |
