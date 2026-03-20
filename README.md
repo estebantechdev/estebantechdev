@@ -154,7 +154,7 @@ The **other projects** listed here are not officially released versions, but car
 
 |Project|Description|Languages|Released|
 |-------|-----------|---------|--------|
-|[PromptPro 🎯](https://github.com/estebantechdev/promptctl)|Build ready-to-use quality prompts 🚀. |Python|-|
+|[PromptPro 🎯](https://github.com/estebantechdev/promptctl)|Create ready-to-use, high-quality prompts with a single command 🚀. |Python|-|
 |[pair-programming-with-google-palm-2](https://github.com/estebantechdev/pair-programming-with-google-palm-2)|✨ 🐍️ Pair Programming with the Google PaLM LLM AI. |Jupyter Notebook|-|
 |[commbase-text-translator-phi3-mini](https://github.com/mydroidandi/commbase-text-translator-phi3-mini)|Translates text from one language to another using the Ollama API with a specific Phi3 mini language model from Microsoft.|Python|✔|
 |[commbase-tts-pyttsx3](https://github.com/mydroidandi/commbase-tts-pyttsx3)|A Python application that utilizes text-to-speech capabilities to read out the content of a file or any input text provided.|Python|✔|
